@@ -55,9 +55,11 @@ ul{
 li{
   list-style: none;
   margin-top: 0.625rem;
+  text-align: left;
 }
 a{
   color: var(--color-primary);
   font-size: 1.25rem;
   text-decoration: underline;
+  /* text-align: left; */
 }
