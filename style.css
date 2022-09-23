@@ -7,6 +7,7 @@ body{
   padding: 0.625rem;
   min-width: 25rem;
   text-align: center;
+  min-height: 25rem;
 }
 
 input{
